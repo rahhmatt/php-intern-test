@@ -14,5 +14,4 @@ for ($i = 0; $i < $column; $i++) {
     echo PHP_EOL;
 }
 
-
 ?>
